@@ -2,7 +2,6 @@
     "require": {
         "illuminate/routing": "^5.5",
         "illuminate/events": "^5.5",
-        "guzzlehttp/guzzle": "^6.3"
     },
     "autoload": {
         "psr-4": {
